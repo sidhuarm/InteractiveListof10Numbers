@@ -1,3 +1,7 @@
+/* This program will take 10 numbers simaltenously and then it will display, 
+Prime, Odd/Even and will show the highest and lowest from those 10 numbers
+Author: Arman Singh Sidhu
+*/
 #include<stdio.h>
 #include<stdbool.h>
 char isPrime(int num);
